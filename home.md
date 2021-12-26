@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+hide: true
 ---
 
 **About Me**
