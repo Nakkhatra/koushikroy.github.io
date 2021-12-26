@@ -11,15 +11,3 @@ Finally, as a researcher, my goal is to continue my quest for knowledge, study, 
 
 
 My industrial intrests revolve around creating products that provide practical solutions through the use of both algorithms and software design. I have experience working with image, text, sensor and tabular data. I also have experience working on the whole data pipeline from data collection upto optimized model deployment.
-
-### Contact me
-I am open to interesting research and practical projects. I am also looking for jobs related to machine learning.
-Feel free to contact me by email or message me on Twitter or send a connection on Linkedin.
-
-Personal E-mail : [rezwan.mohammad.165@gmail.com](mailto:rezwan.mohammad.165@gmail.com)
-University/Work E-mail: [mohammad.rezwan@northsouth.edu](mailto:mohammad.rezwan@northsouth.edu)
-Twitter : [Ifty](https://twitter.com/imr165)
-Linkedin : [Ifty](https://www.linkedin.com/in/ifty-mohammad-rezwan-98a487aa/)
-
-
-
